@@ -1,0 +1,37 @@
+{
+  "revision": "02",
+  "owner": "Research Analyst",
+  "date": "2026-11-05",
+  "inputCommit": "89fd715671af670df3ebfe83154aaf33e1d316db",
+  "reviewFindingsRevision": "b7c487f4-fd7f-4543-9ff5-e8077f7d6b7d",
+  "files": [
+    {
+      "path": "research/proposals/revision-02/kafka-exactly-once-boundary/kafka-exactly-once-boundary-revision-02-proposal.md",
+      "sha256": "eadf115c368e3437125b78dd607a7aa3440b7004de387206a97ab3597011a9e9"
+    },
+    {
+      "path": "research/proposals/revision-02/kafka-exactly-once-boundary/references.md",
+      "sha256": "91c8d6302514b299f5a22f9099854e606f6f8b7eb36f276ff363f1c81a964893"
+    },
+    {
+      "path": "research/proposals/revision-02/cloud-capacity-and-discounts/cloud-capacity-and-discounts-revision-02-proposal.md",
+      "sha256": "1c69208e1c3cc242d8c0194122ff5eda28d272d42dabb16c242df23cc5b38d73"
+    },
+    {
+      "path": "research/proposals/revision-02/cloud-capacity-and-discounts/references.md",
+      "sha256": "8224a15d5a86360f5cb8ef165d750add75d80ec6a37e54d2207c7090547f0ca7"
+    },
+    {
+      "path": "research/proposals/revision-02/oauth-replay-controls/oauth-replay-controls-revision-02-proposal.md",
+      "sha256": "fb96043eb8d971036e678aa4c18c6e561387e4472dc6bfb6ec3d21cc636c8a30"
+    },
+    {
+      "path": "research/proposals/revision-02/oauth-replay-controls/references.md",
+      "sha256": "8f0777facd753ad48abad5f5671f2d1df90a80d7662adfc9636beea2ff31a2d9"
+    },
+    {
+      "path": "research/proposals/revision-02/finding-to-change-matrix.md",
+      "sha256": "79768252a8de97fb9ed874769f0752352017ef4897fae21949cc40d221c81c7a"
+    }
+  ]
+}
