@@ -1,0 +1,82 @@
+[
+  {
+    "jiraKey": "CAREER-3",
+    "path": "career-studio-revision-01/platform-reconciliation-contract/platform-reconciliation-contract-revision-01-proposal.md",
+    "filename": "platform-reconciliation-contract-revision-01-proposal.md",
+    "revision": "01",
+    "sha256": "e10818107c3ce0b81cb73273b676a3b478bc602b336920db01ac621ed17fd687",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-3",
+    "path": "career-studio-revision-01/platform-reconciliation-contract/references.md",
+    "filename": "references.md",
+    "revision": "01",
+    "sha256": "3beff186403695935a6af540e6b5971a604eb66adf18bf55caaeab5684af91de",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-4",
+    "path": "career-studio-revision-01/kafka-exactly-once-boundary/kafka-exactly-once-boundary-revision-01-proposal.md",
+    "filename": "kafka-exactly-once-boundary-revision-01-proposal.md",
+    "revision": "01",
+    "sha256": "ca7f2b62990a99d7afe6aa4dfe18652dae0c28198e79dde7dd533240fae7eb51",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-4",
+    "path": "career-studio-revision-01/kafka-exactly-once-boundary/references.md",
+    "filename": "references.md",
+    "revision": "01",
+    "sha256": "325cde5f88d0e2f923d0a20881f3cc3d2a243159e45ba49ee19dd1faa40566f2",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-5",
+    "path": "career-studio-revision-01/cloud-capacity-and-discounts/cloud-capacity-and-discounts-revision-01-proposal.md",
+    "filename": "cloud-capacity-and-discounts-revision-01-proposal.md",
+    "revision": "01",
+    "sha256": "2feadacf088158ebcfeadd7c7574bbaed50c9334c3e871a4171f2e3796706118",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-5",
+    "path": "career-studio-revision-01/cloud-capacity-and-discounts/references.md",
+    "filename": "references.md",
+    "revision": "01",
+    "sha256": "9b009f7a58b1af2bfd222cd431ef16b82f18ee8be25dbeab4803e34c019b41cf",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-6",
+    "path": "career-studio-revision-01/oauth-replay-controls/oauth-replay-controls-revision-01-proposal.md",
+    "filename": "oauth-replay-controls-revision-01-proposal.md",
+    "revision": "01",
+    "sha256": "981cb37b07d94c8a75213b699a609217e819e3626e3091045be496ad3e14f861",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-6",
+    "path": "career-studio-revision-01/oauth-replay-controls/references.md",
+    "filename": "references.md",
+    "revision": "01",
+    "sha256": "a2c235681aff1f9084a79a8601eed0e7ba201ef4e1afcba2814aeedeedb71d46",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-7",
+    "path": "career-studio-revision-01/outbox-obligation/outbox-obligation-revision-01-proposal.md",
+    "filename": "outbox-obligation-revision-01-proposal.md",
+    "revision": "01",
+    "sha256": "1cbc626608090e62b98442693e4b7f5302549667291832bf01d9c50ffd2e3759",
+    "jiraAttachmentId": null
+  },
+  {
+    "jiraKey": "CAREER-7",
+    "path": "career-studio-revision-01/outbox-obligation/references.md",
+    "filename": "references.md",
+    "revision": "01",
+    "sha256": "84b60c79eb4dbb91c5c5bb4e634ad050aa3893f569ea2527266552111cdd8736",
+    "jiraAttachmentId": null
+  }
+]
